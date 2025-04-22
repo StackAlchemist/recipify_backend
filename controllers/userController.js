@@ -1,4 +1,3 @@
-const { Rewind } = require("lucide-react");
 const Recipe = require("../model/userModel");
 
 const searchRecipe = async (req, res) => {
